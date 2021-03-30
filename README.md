@@ -11,7 +11,8 @@ Here are somethings about me:
 -->
 
 ## Connect me via 
-[Facebook](https://facebook.com/letienlocvn)
 [Email](mailto: letienlocvn@gmail.com)
+[Facebook](https://facebook.com/letienlocvn)
+
 
 #### © 2020 by letienloc
