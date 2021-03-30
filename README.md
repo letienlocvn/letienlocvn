@@ -5,12 +5,13 @@
 
 Here are somethings about me:
 
-- 🧑‍💻I’m a student FPT University 
+- 🧑‍💻 I’m a student FPT University 
 - 🌱 I’m currently learning software engineer. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... The world is one word !
 -->
+
+## Connect me via 
+[Facebook](https://facebook.com/letienlocvn)
+[Email](mailto: letienlocvn@gmail.com)
+
+#### © 2020 by letienloc
