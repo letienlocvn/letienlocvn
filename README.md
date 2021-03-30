@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Le Tien Loc 👋
 
 <!--
 **letienlocvn/letienlocvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are somethings about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🧑‍💻I’m a student FPT University 
+- 🌱 I’m currently learning software engineer. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
