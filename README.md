@@ -11,7 +11,7 @@ Here are somethings about me:
 -->
 
 ## Connect me via 
-[Email](mailto: letienlocvn@gmail.com)
+[Email](mailto:letienlocvn@gmail.com)
 [Facebook](https://facebook.com/letienlocvn)
 
 
