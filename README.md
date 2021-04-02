@@ -11,6 +11,7 @@ Here are somethings about me:
 
 ## Connect me via 
 [Email](mailto:letienlocvn@gmail.com)
+
 [Facebook](https://facebook.com/letienlocvn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letienlocvn&show_icons=true)
